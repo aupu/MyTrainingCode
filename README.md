@@ -1,4 +1,4 @@
-MyTrainingCode
+我的练习代码
 ==============
 
-My Codes 4 Course Practice.
+各类课程实验的代码仓库，尽量注释.
